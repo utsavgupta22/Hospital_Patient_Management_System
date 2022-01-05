@@ -20,4 +20,5 @@ Login Details for admin : admin/Test@12345
 Login Details for Patient: test@gmail.com/Test@123
 Login Details for Doctor: test@demo.com/Test@123
 
-![image](https://user-images.githubusercontent.com/49412069/148217771-e2129915-9a19-40dd-aca4-e431a29b9cc4.png)
+![image](https://user-images.githubusercontent.com/49412069/148217864-baa9f874-21d7-4c7f-911d-3844abcb217e.png)
+
